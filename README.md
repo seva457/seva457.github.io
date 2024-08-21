@@ -18,3 +18,7 @@
 [Урок 11](https://github.com/seva457/seva457.github.io/tree/main/lesson_11)
 
 [Урок 13](https://seva457.github.io/lesson_13/src/index.html)
+
+[Урок 14](https://seva457.github.io/Lesson_14/src/index.html)
+
+[Урок 15](seva457.github.io/Lesson_15)
