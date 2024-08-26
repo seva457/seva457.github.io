@@ -22,3 +22,7 @@
 [Урок 14](https://seva457.github.io/Lesson_14/src/index.html)
 
 [Урок 15](https://seva457.github.io/Lesson_15/)
+
+[Урок 16](https://seva457.github.io/lesson-16/src/index.html)
+
+[Урок 17](https://seva457.github.io/lesson_17/index.html)
