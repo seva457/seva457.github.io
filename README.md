@@ -28,3 +28,5 @@
 [Урок 17](https://seva457.github.io/lesson_17/index.html)
 
 [Урок 18](https://seva457.github.io/lesson_18/src/index.html)
+
+[Урок 19](https://seva457.github.io/lesson_19/src/index.html)
