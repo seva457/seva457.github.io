@@ -36,3 +36,7 @@
 [Урок 21](https://seva457.github.io/lesson_21/)
 
 [Урок 22](https://seva457.github.io/lesson_22/src/)
+
+[Урок 23.1](https://seva457.github.io/lesson_23/lesson1/src/)
+
+[Урок 23.2](https://seva457.github.io/lesson_23/lesson2/src/)
