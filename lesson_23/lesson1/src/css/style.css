@@ -1,0 +1,41 @@
+.MyName {
+	font-size: 24px !important;
+	background-color: #03a5db !important;
+	color: white !important;
+	border: none !important;
+}
+.myname {
+	width: 619px !important;
+	height: 399px !important;
+	border: 20px solid #03a5db !important;
+}
+.form-box {
+	display: inline-block;
+	padding: 40px 34px 0 34px;
+	width: 583px;
+	height: 363px;
+	background-color: #000000;
+	border-radius: 5px;
+}
+.main-form-input {
+	display: block;
+	margin-top: 29px;
+	outline: none;
+	border: none;
+	font-size: 24px;
+	background-color: #1d1c1c !important;
+}
+input[type="text"]::placeholder {
+	color: #ffffff;
+}
+.question {
+	display: block;
+	margin-top: 22px;
+	text-decoration: none;
+	color: red;
+}
+.form-check {
+	margin-top: 58px;
+	font-size: 15px;
+	color: #6f6d6d;
+}

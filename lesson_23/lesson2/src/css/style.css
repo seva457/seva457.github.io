@@ -1,0 +1,25 @@
+.container {
+	padding-top: 80px;
+	text-align: center;
+	background-color: #fafcfe;
+	color: #0bbaf0;
+}
+h1 {
+	font-size: 36px;
+}
+span {
+	font-size: 24px;
+}
+.accordion {
+	margin-top: 50px;
+}
+.accordion-button {
+	background-color: #0bbaf0;
+}
+.accordion-body {
+	text-align: left;
+	background-color: #fafcfe;
+}
+.accordion-button:focus {
+	box-shadow: none;
+}
