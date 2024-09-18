@@ -48,3 +48,5 @@
 [Урок 26](https://seva457.github.io/lesson_26/src/index.html)
 
 [Урок 27](https://seva457.github.io/lesson_27/src/)
+
+[Урок 28](https://seva457.github.io/lesson_28/src/index.html)
