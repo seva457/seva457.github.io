@@ -52,3 +52,5 @@
 [Урок 28](https://seva457.github.io/lesson_28/src/index.html)
 
 [Урок 29](https://seva457.github.io/lesson_29/index.html)
+
+[Урок 30](https://seva457.github.io/lesson_30/src/)
