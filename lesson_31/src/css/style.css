@@ -1,0 +1,29 @@
+.contacts {
+	padding-top: 1.2rem;
+	text-align: center;
+	background-color: #c60b0b;
+	color: #fff;
+}
+.contacts h2 {
+	padding-bottom: 1rem;
+	font-weight: normal;
+	font-size: 3rem;
+}
+.contacts p {
+	display: block;
+	padding-bottom: 1rem;
+	font-size: 1.8rem;
+}
+.info {
+	padding-top: 2rem;
+	font-size: 1rem;
+}
+.Text3 {
+	text-align: center;
+}
+.TextOne {
+	font-size: 1.4rem;
+}
+.TextOne, .TextTwo {
+	text-align: right;
+}
