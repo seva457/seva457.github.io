@@ -60,3 +60,5 @@
 [Урок 32](https://seva457.github.io/lesson_32/src/)
 
 [Урок 34](https://seva457.github.io/lesson_34/src/index.html)
+
+[Урок 36](https://seva457.github.io/lesson_36/src/)
